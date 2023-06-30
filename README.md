@@ -2,6 +2,4 @@
 Classic pong Game using Turtle Module of Python and OOPS
 
 
-https://github.com/Sarthak17376/Pong-Game/assets/90836475/74eaee42-ff74-4261-8a25-6c179e62aa42
-![image](https://github.com/Sarthak17376/Pong-Game/assets/90836475/3230b15c-158a-4f11-8f38-6a2c5ea4cbb5)
-
+![image](https://github.com/Sarthak17376/Pong-Game/assets/90836475/b1169fa2-1678-409a-a552-d86614976a39)
