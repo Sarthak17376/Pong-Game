@@ -1,0 +1,16 @@
+Components
+
+1. 2 Paddles
+2. Ball
+3. Screen setup
+   a)Scoreboard
+   b)Middle Line
+
+
+Logics:
+
+1. Ball Bouncing
+   a) Wall
+   b) Paddle
+2. Paddle Movement
+   a) Detecting paddle missing
